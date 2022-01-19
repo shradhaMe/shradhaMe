@@ -1,0 +1,6 @@
+# git ingnore them
+
+.vscode/
+.DS_Store
+*.pdf
+*.zip
